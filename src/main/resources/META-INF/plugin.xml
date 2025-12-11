@@ -1,7 +1,7 @@
-<idea-plugin>
-  <id>com.google.gemini-cli</id>
+<idea-plugin url="https://github.com/SoLoHiC/jetbrains-ide-companion">
+  <id>me.solohic.gemini-cli-companion</id>
   <name>Gemini CLI Companion</name>
-  <vendor email="gemini-cli-support@google.com" url="https://github.com/google-gemini/gemini-cli">Google</vendor>
+  <vendor email="neoz.o0312@gmail.com" url="https://solohic.github.io">Charles Zhang</vendor>
 
   <description><![CDATA[
     Enable Gemini CLI with direct access to your IDE workspace.

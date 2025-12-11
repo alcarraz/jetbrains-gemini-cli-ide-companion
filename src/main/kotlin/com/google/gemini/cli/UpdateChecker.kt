@@ -20,7 +20,7 @@ import java.util.concurrent.atomic.AtomicBoolean
 @Service(Service.Level.APP)
 class UpdateChecker {
     private val log = Logger.getInstance(UpdateChecker::class.java)
-    private val pluginId = "com.google.gemini-cli"
+    private val pluginId = "me.solohic.gemini-cli-companion"
     private val pluginMarketplaceUrl = "https://plugins.jetbrains.com/api/plugins/${pluginId}"
     private val checkedForUpdates = AtomicBoolean(false)
 

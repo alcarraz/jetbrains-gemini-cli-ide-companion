@@ -14,6 +14,14 @@
     "ide",
     "companion"
   ],
-  "author": "Google",
+  "author": "Charles Zhang <neoz.o0312@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoLoHiC/jetbrains-ide-companion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoLoHiC/jetbrains-ide-companion/issues"
+  },
+  "homepage": "https://github.com/SoLoHiC/jetbrains-ide-companion#readme",
   "license": "Apache-2.0"
 }

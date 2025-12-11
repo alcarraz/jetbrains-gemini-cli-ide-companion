@@ -25,7 +25,7 @@ class GeminiCliStartupActivity : StartupActivity {
   }
 
   private fun showInstallationWelcome(project: Project) {
-    val pluginId = PluginId.getId("com.google.gemini-cli")
+    val pluginId = PluginId.getId("me.solohic.gemini-cli-companion")
     val plugin = PluginManagerCore.getPlugin(pluginId)
 
     if (plugin != null) {
